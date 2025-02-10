@@ -1,0 +1,30 @@
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+rust:
+  label: Rust
+  permalink: /rust
+  description: Everything Rust related
+
+game-dev:
+  label: Game Development
+  permalink: /game-dev
+  description: Everything game development related
+
+cpp:
+  label: C++
+  permalink: /cpp
+  description: Everything C++ related
+
+audeal: 
+  label: Audeal
+  permalink: /audeal
+  description: The Audeal wrapper
+
+mglfw:
+  label: MGLFW
+  permalink: /mglfw
+  description: The minimal GLFW wrapper for rust
+
