@@ -86,7 +86,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            to: '/news', 
+            to: '/blog', 
             label: 'News',
             position: 'left'}
         ],
@@ -121,7 +121,7 @@ const config = {
             items: [
               {
                 label: 'News',
-                to: '/news',
+                to: '/blog',
               }
             ],
           },
