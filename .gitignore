@@ -2,6 +2,11 @@
 /node_modules
 
 # Production
+/blog
+/docs
+/src
+/static
+
 
 
 # Generated files
